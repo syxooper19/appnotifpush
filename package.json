@@ -1,0 +1,12 @@
+{
+  "name": "ue-paas-app_server",
+  "version": "1.0.0",
+  "description": "Pour le serveur, on utilise le framework node Express, mais tout autre solution est viable",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
